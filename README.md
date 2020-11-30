@@ -1,4 +1,4 @@
-#studentPortfolio
+# Student Portfolio
 
 This is a portfolio of Shasheesh Purohit, the website is in the making.
 
