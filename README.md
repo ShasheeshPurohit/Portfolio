@@ -1,5 +1,3 @@
 # Student Portfolio
 
-This is a portfolio of Shasheesh Purohit, the website is in the making.
-
-I am a web developer from Jodhpur and on my journey to become a FullStack Developer.
+Hey! Welcome to my portfolio! you can check my projects and blogs here to know more about my skills!
