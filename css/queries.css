@@ -1,11 +1,12 @@
 @media screen and (max-width: 500px){
-    .nav-pills{
+    .nav-pills .list-item-inline{
         text-align: center;
-        font-size: 0.8rem;
+        margin: 1rem 0;
+        display: block;
     }
 
-    .footer .link{
-        color: white;
-        font-size: 0.8rem;
+    .social-links .list-item-inline{
+        margin: 1rem 0;
+        display: block;
     }
 }
