@@ -3,4 +3,9 @@
         text-align: center;
         font-size: 0.8rem;
     }
+
+    .footer .link{
+        color: white;
+        font-size: 0.8rem;
+    }
 }
