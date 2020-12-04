@@ -9,11 +9,18 @@
 body{
     font-family: 'Montserrat',sans-serif;
     margin: 0;
+    padding: 0;
 }
 
 
 hr{
     margin: 2rem 0;
+}
+
+/** SPACES **/
+
+.padding-md{
+    padding: 1rem;
 }
 
 
