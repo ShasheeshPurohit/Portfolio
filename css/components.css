@@ -101,7 +101,10 @@ hr{
 
 .hero{
     padding: 2rem;
+    text-align: center;
 }
+
+
 
 .hero .hero-img{
     max-width: 350px;
